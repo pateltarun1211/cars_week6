@@ -1,0 +1,12 @@
+{
+    "make": "Rimac",
+    "model": "Nevera",
+    "year": 2023,
+    "category": "Hyper Car",
+    "price": 2050000.00,
+    "max_speed": "258 mph",
+    "zero_sixty": "1.9 sec",
+    "weight": "5100 lb",
+    "color": "silver",
+    "fuel_type": "electric"
+}
