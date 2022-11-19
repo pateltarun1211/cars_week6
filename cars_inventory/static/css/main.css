@@ -56,6 +56,7 @@ ul#horizontal-list a:nth-last-child(1){
 /* Start of Features Section Styles */
 #api-image, #graphql-image, #database-image {
     margin-bottom: 10vh;
+    max-height: 35vh;
 }
 
 #features-section {
@@ -91,7 +92,7 @@ ul#horizontal-list a:nth-last-child(1){
 /* Profile Styles */
 .hero-section{
     height: 95vh;
-    background-image:linear-gradient(to right bottom, rgba(30, 115,172, 0.7), rgba(142, 57, 153, 0.6)), url(../images/drone-profile.jpg);
+    background-image:linear-gradient(to right bottom, rgba(30, 115,172, 0.7), rgba(142, 57, 153, 0.6)), url(../images/Car_Monochromatic.svg);
     background-size: cover;
     background-position: 35% 50%;
     -webkit-clip-path: polygon(0 0, 100% 0, 100% 80vh, 0 100%);

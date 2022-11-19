@@ -1,12 +1,25 @@
 {
-    "make": "Rimac",
-    "model": "Nevera",
-    "year": 2023,
-    "category": "Hyper Car",
-    "price": 2050000.00,
-    "max_speed": "258 mph",
-    "zero_sixty": "1.9 sec",
-    "weight": "5100 lb",
-    "color": "silver",
-    "fuel_type": "electric"
+  "make": "Rimac",
+  "model": "Nevera",
+  "year": 2023,
+  "category": "Hyper Car",
+  "price": 2050000.00,
+  "max_speed": "258 mph",
+  "zero_sixty": "1.9 sec",
+  "weight": "5100 lb",
+  "color": "silver",
+  "fuel_type": "electric"
+}
+
+{
+  "make": "Ferrari",
+  "model": "SF90 Stradale",
+  "year": 2022,
+  "category": "Super Car",
+  "price": 625000.00,
+  "max_speed": "211 mph",
+  "zero_sixty": "2.5 sec",
+  "weight": "3461 lb",
+  "color": "red",
+  "fuel_type": "gas"
 }
